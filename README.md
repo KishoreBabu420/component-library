@@ -1,2 +1,50 @@
-# component-library
- Component library built from scratch for my Portfolio and Futher projects
+# COMPONENT LIBRARY
+
+Component library built from scratch for my Portfolio and Further projects
+
+## brand colors
+
+```
+- Primary Color
+- Primary Dark?
+- Gray
+```
+
+## typography
+
+```
+- h1
+- h2
+- text
+- text-sm
+```
+
+## container
+
+```
+- fluid
+- center
+```
+
+## button
+
+```
+- Primary Button
+- Secondary Button
+```
+
+## nav
+
+```
+- Brand
+- Link
+```
+
+## header
+
+```
+- image
+- heading
+```
+
+## section
