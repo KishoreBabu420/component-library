@@ -26,3 +26,50 @@ body {
   background-color: var(--text-color);
   color: var(--clr-black);
 }
+
+a {
+  text-decoration: none;
+}
+
+
+
+hr {
+  margin: 2rem 0;
+}
+
+.text-sm {
+  font-size: 0.8rem;
+}
+
+/* Containers */
+.container-fluid {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.container {
+  margin: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  max-width: 85%;
+}
+
+/* Global CSS */
+
+/* Custom CSS */
+.title {
+  text-align: center;
+  margin: 1.5rem auto;
+  text-transform: uppercase;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+}
+
+.description {
+  width: 80%;
+  margin: 0.25rem auto;
+}
+
+.description p {
+  margin: 0.5rem auto;
+}
